@@ -4,6 +4,10 @@ Overview
 
 This project provides an in-depth analysis of Ola's operational and business performance using Power BI. The report includes interactive dashboards, key performance metrics, and data-driven insights to help stakeholders make informed decisions.
 
+
+Access through this link : 
+https://app.powerbi.com/Redirect?action=openreport&context=Annotate&ctid=04f55f44-fcb0-4df4-ac1f-9e4d45337e01&pbi_source=mobile_android&groupObjectId=125baab0-d76b-44d7-810e-995ff3c5dffa&reportObjectId=59ee8411-c571-4b93-ad15-3ca887f59855&reportPage=71b574f2f987faf7163e&bookmarkGuid=5be04ecb-395a-4283-9ba4-72e668aa4cf1&fullScreen=0
+
 Objectives
 
 Analyze Ola's ride data to identify trends and patterns.
